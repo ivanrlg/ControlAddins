@@ -1,0 +1,29 @@
+{
+  "id": "3fe8b7b4-1da6-430f-b942-0455a98b181c",
+  "name": "ControlAddins",
+  "publisher": "IvanSinglenton.dev",
+  "version": "1.0.0.0",
+  "brief": "",
+  "description": "",
+  "privacyStatement": "https://ivansinglenton.dev/",
+  "EULA": "https://ivansinglenton.dev/",
+  "help": "https://ivansinglenton.dev/",
+  "url": "https://ivansinglenton.dev/",
+  "logo": "",
+  "dependencies": [],
+  "screenshots": [],
+  "platform": "1.0.0.0",
+  "application": "20.0.0.0",
+  "idRanges": [
+    {
+      "from": 57100,
+      "to": 57149
+    }
+  ],
+  "resourceExposurePolicy": {
+    "allowDebugging": true,
+    "allowDownloadingSource": false,
+    "includeSourceInSymbolFile": false
+  },
+  "runtime": "9.0"
+}
