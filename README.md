@@ -6,4 +6,4 @@ How to create an Addin Control.
 
 How to use the native Business Central Controls Addins.
 
-For more information go to the following link: https://ivansinglenton.dev/?p=1905
+For more information go to the following link: https://ivansingleton.dev/?p=1905
